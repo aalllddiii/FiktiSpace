@@ -1,0 +1,12 @@
+[12-May-2022 12:38:29 UTC] PHP Warning:  Undefined variable $database_user in /home/fiktispa/public_html/administration/sport/index.php on line 41
+[12-May-2022 12:38:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/fiktispa/public_html/administration/sport/index.php:43
+Stack trace:
+#0 /home/fiktispa/public_html/administration/sport/index.php(43): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/fiktispa/public_html/administration/sport/index.php on line 43
+[13-May-2022 09:13:05 UTC] PHP Warning:  Undefined variable $database_user in /home/fiktispa/public_html/administration/sport/index.php on line 41
+[13-May-2022 09:13:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/fiktispa/public_html/administration/sport/index.php:43
+Stack trace:
+#0 /home/fiktispa/public_html/administration/sport/index.php(43): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/fiktispa/public_html/administration/sport/index.php on line 43
